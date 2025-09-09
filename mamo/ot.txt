@@ -1,0 +1,31 @@
+자바스크립기반으로 html,css
+이덕희
+bekkol@naver.com
+010-3391-3282
+오픈북 - 빡세다는거
+중간 기말 과제 출석 30~40% 정도
+이론 원리 무조건 알 것
+오프북해서 잘 할 수 있는정도로 수준을 올려야한다
+
+과제 학기당 한 번
+레포트 제출할 것이다 실습 
+
+나중에 정리해서 쓸 수 있을정도로 만든다(완벽 그자체를 만들어야함)
+
+책
+자바스크립트 GOAT / 
+
+
+아파치 초기  구조
+Define SRVROOT "C:/2221010/인터넷 프로그래밍/2221010_workspace/1주차/httpd-2.4/Apache24" 
+C:\2221010\Internet_programming\2221010_workspace\httpd-2.4\Apache24
+
+ServerName localhost
+
+DocumentRoot "C:/2221010/인터넷 프로그래밍/2221010_workspace/1주차"
+<Directory "C:/2221010/인터넷 프로그래밍/2221010_workspace/1주차">
+
+http://127.0.0.1/
+
+
+
